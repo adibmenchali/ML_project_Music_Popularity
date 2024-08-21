@@ -12,7 +12,6 @@ The objectives of the project are as follows:
 • Providing recommendations to artists and music producers.  
 
 ## Methods:
-• Our whole project was done on Colab.  
 • Latent Dirichlet Allocation: Used for Topic Modeling.  
 • K-Means: Used to cluster the data.  
 • Adjusted Rand Index: Assess the K-Means clustering results.  
